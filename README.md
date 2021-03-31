@@ -31,4 +31,4 @@ Once you have registered this will log you into the application.
 
 There will be further updates.
 
-I ahvent been able to fully text this application so far, but I will be pursuing a unit testing, with functionality testing as well. Making sure each additional function added is fully tested. 
+I havent been able to fully text this application so far, but I will be pursuing a unit testing, with functionality testing as well. Making sure each additional function added is fully tested. 
